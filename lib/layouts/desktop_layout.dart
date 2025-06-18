@@ -1,4 +1,4 @@
-import 'package:aplikasi_whatsapp/model/chat.dart';
+import 'package:aplikasi_whatsapp/models/chat%20-%20copy.dart';
 import 'package:aplikasi_whatsapp/theme/theme.dart';
 import 'package:aplikasi_whatsapp/widget/chat_list.dart';
 import 'package:aplikasi_whatsapp/widget/chat_screen.dart';
